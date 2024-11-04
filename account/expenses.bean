@@ -1,0 +1,31 @@
+; 基本生活开支
+2021-07-14 open Expenses:Unknown CNY ; 未知消费，平帐
+
+; 基本生活开支
+2021-07-14 open Expenses:BaseLife:Clothes CNY ; 衣服
+2021-07-14 open Expenses:BaseLife:Food CNY ;饮食开支，只支持CNY
+2021-07-14 open Expenses:BaseLife:Living CNY ;水电开支，只支持CNY
+2021-07-14 open Expenses:BaseLife:Traffic CNY ;基本生活开支，交通，只支持CNY
+
+; 健康开支
+2021-07-14 open Expenses:Health:Medical CNY ;保健开支，只支持CNY
+2021-07-14 open Expenses:Health:Sport CNY ;运动开支CNY
+2021-07-14 open Expenses:Health:Food CNY ;运动开支CNY
+
+; 税收
+2021-07-14 open Expenses:Tax:Shop CNY ;购物交税
+2021-07-14 open Expenses:Tax:Salary CNY ;基本生活开支，交通，只支持CNY
+
+; 其它开支
+2021-07-14 open Expenses:Others:Yule ;娱乐开支
+2021-07-14 open Expenses:Others:RedPacket ;红包开支
+
+; 旅行开支
+2023-03-01 open Expenses:Travel ;旅行交通开支
+2023-03-01 open Expenses:Travel:Tuan ;旅行跟团
+2023-03-01 open Expenses:Travel:Traffic ;旅行交通开支
+2023-03-01 open Expenses:Travel:Food ;旅行食物开支
+2023-03-01 open Expenses:Travel:Living ;旅行住宿开支
+2023-03-01 open Expenses:Travel:Cloud ;旅行住宿开支
+2023-03-01 open Expenses:Travel:Souvenir ;旅行纪念品开支
+2023-03-01 open Expenses:Travel:Tickets ;门票开支

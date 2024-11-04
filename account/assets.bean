@@ -1,0 +1,42 @@
+;; 资产账户设置
+; 现金
+2021-01-14 open Assets:Cash
+
+; 银行
+2021-01-14 open Assets:Card:ZhaoHang CNY ;招商银行借记卡
+2021-07-14 open Assets:Card:GongShang CNY ;工商银行借记卡
+
+;; 微信、支付宝等电子账号
+2021-07-14 open Assets:Alipay CNY ;支付宝大类
+2021-07-14 open Assets:Weixin CNY ;微信大类
+
+;; 折扣、满减
+2021-07-01 open Assets:Discount:Comm CNY ; 话费减免
+2021-07-01 open Assets:Discount:Bank CNY ; 银行、信用卡相关减免
+
+; 五险一金相关资产
+1971-07-14 open Assets:SocialSecurity:HousingFund ;住房公积金
+1971-07-14 open Assets:SocialSecurity:YangLao ;养老保险
+1971-07-14 open Assets:SocialSecurity:ShiYe ;失业保险
+1971-07-14 open Assets:SocialSecurity:YiLiao ;医疗保险
+
+; 初始化
+2021-01-14 * "现金初始化"
+    Assets:Cash                0 CNY
+    Equity:OpenBalance         0 CNY
+
+2023-05-11 * "现金初始化"
+    Assets:Cash              300 CNY
+    Equity:OpenBalance      -300 CNY
+
+2021-01-14 * "招商银行卡初始化" "初始余额10000元"
+    Assets:Card:ZhaoHang   10000 CNY
+    Equity:OpenBalance    -10000 CNY
+
+2021-07-14 * "支付宝初始化" "初始余额5000元"
+    Assets:Alipay           5000 CNY
+    Equity:OpenBalance     -5000 CNY
+
+2021-07-14 * "微信初始化" "初始余额300元"
+    Assets:Weixin            300 CNY
+    Equity:OpenBalance      -300 CNY

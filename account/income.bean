@@ -1,0 +1,5 @@
+1971-07-14 open Income:Salary ;总薪资收入
+1971-07-14 open Income:WeiChat ;公号收入
+2021-07-14 open Income:Interest:Bank ;银行利息收入
+2021-07-14 open Income:RedPacket ;红包收入
+2021-07-14 open Income:Fuye ;副业收入

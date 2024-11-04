@@ -1,0 +1,179 @@
+2024-10-01 * "Food"
+    Assets:Card:ZhaoHang                                 -18.6 CNY
+    Expenses:BaseLife:Food                                18.6 CNY
+
+2024-10-02 * "JD - 马桶提盖器"
+    Assets:Card:ZhaoHang                                -19.88 CNY
+    Expenses:BaseLife:Living                             19.88 CNY
+
+2024-10-02 * "JD - 置物架"
+    Assets:Card:ZhaoHang                               -127.98 CNY
+    Expenses:BaseLife:Living                            127.98 CNY
+
+2024-10-02 * "Food"
+    Assets:Card:ZhaoHang                                 -22.8 CNY
+    Expenses:BaseLife:Food                                22.8 CNY
+
+2024-10-02 * "Food"
+    Assets:Card:ZhaoHang                                 -15.6 CNY
+    Expenses:BaseLife:Food                                15.6 CNY
+
+2024-10-03 * "水果"
+    Assets:Card:ZhaoHang                                   -32 CNY
+    Expenses:BaseLife:Food                                  32 CNY
+
+2024-10-03 * "Food"
+    Assets:Card:ZhaoHang                                  -8.4 CNY
+    Expenses:BaseLife:Food                                 8.4 CNY
+
+2024-10-04 * "地铁"
+    Assets:Card:ZhaoHang                                    -4 CNY
+    Expenses:BaseLife:Traffic                                4 CNY
+
+2024-10-05 * "滴滴 打车"
+    Assets:Card:ZhaoHang                                 -9.48 CNY
+    Expenses:BaseLife:Traffic                             9.48 CNY
+
+2024-10-06 * "滴滴 打车"
+    Assets:Card:ZhaoHang                                -29.64 CNY
+    Expenses:BaseLife:Traffic                            29.64 CNY
+
+2024-10-06 * "地铁"
+    Assets:Card:ZhaoHang                                    -3 CNY
+    Expenses:BaseLife:Traffic                                3 CNY
+
+2024-10-06 * "高德 打车"
+    Assets:Card:ZhaoHang                                -18.52 CNY
+    Expenses:BaseLife:Traffic                            18.52 CNY
+
+2024-10-06 * "地铁"
+    Assets:Card:ZhaoHang                                    -5 CNY
+    Expenses:BaseLife:Traffic                                5 CNY
+
+2024-10-06 * "Food"
+    Assets:Card:ZhaoHang                                 -19.2 CNY
+    Expenses:BaseLife:Food                                19.2 CNY
+
+2024-10-06 * "地铁"
+    Assets:Card:ZhaoHang                                    -4 CNY
+    Expenses:BaseLife:Traffic                                4 CNY
+
+2024-10-07 * "JD - 农夫山泉水"
+    Assets:Card:ZhaoHang                                -54.78 CNY
+    Expenses:BaseLife:Food                               54.78 CNY
+
+2024-10-07 * "Food"
+    Assets:Card:ZhaoHang                                -17.04 CNY
+    Expenses:BaseLife:Food                               17.04 CNY
+
+2024-10-08 * "打车"
+    Assets:Card:ZhaoHang                                   -16 CNY
+    Expenses:BaseLife:Traffic                               16 CNY
+
+2024-10-09 * "顺丰"
+    Assets:Card:ZhaoHang                                   -12 CNY
+    Expenses:BaseLife:Traffic                               12 CNY
+
+2024-10-09 * "Food"
+    Assets:Card:ZhaoHang                                -13.56 CNY
+    Expenses:BaseLife:Food                               13.56 CNY
+
+2024-10-10 * "美团 Food"
+    Assets:Card:ZhaoHang                                 -41.2 CNY
+    Expenses:BaseLife:Food                                41.2 CNY
+
+2024-10-11 * "Food"
+    Assets:Card:ZhaoHang                                -19.56 CNY
+    Expenses:BaseLife:Food                               19.56 CNY
+
+2024-10-12 * "Food"
+    Assets:Card:ZhaoHang                                -17.16 CNY
+    Expenses:BaseLife:Food                               17.16 CNY
+
+2024-10-13 * "淘宝签到奖金"
+    Income:RedPacket                                     -0.06 CNY
+    Assets:Alipay                                         0.06 CNY
+
+2024-10-13 * "耐克夹克"
+    Assets:Alipay                                        -1099 CNY
+    Expenses:BaseLife:Clothes                             1099 CNY
+
+2024-10-13 * "地铁售卖柜 - 买水"
+    Assets:Alipay                                           -5 CNY
+    Expenses:BaseLife:Food                                   5 CNY
+
+2024-10-13 * "Food"
+    Assets:Card:ZhaoHang                                  -8.4 CNY
+    Expenses:BaseLife:Food                                 8.4 CNY
+
+2024-10-13 * "地铁"
+    Assets:Card:ZhaoHang                                    -6 CNY
+    Expenses:BaseLife:Traffic                                6 CNY
+
+2024-10-14 * "Food"
+    Assets:Alipay                                       -18.36 CNY
+    Expenses:BaseLife:Food                               18.36 CNY
+
+2024-10-15 * "Food"
+    Assets:Alipay                                       -14.76 CNY
+    Expenses:BaseLife:Food                               14.76 CNY
+
+2024-10-15 * "滴滴"
+    Assets:Alipay                                       -20.09 CNY
+    Expenses:BaseLife:Traffic                            20.09 CNY
+
+2024-10-15 * "就医"
+    Assets:Alipay                                        -2.89 CNY
+    Expenses:Health:Medical                               2.89 CNY
+
+2024-10-15 * "滴滴"
+    Assets:Alipay                                       -14.24 CNY
+    Expenses:BaseLife:Traffic                            14.24 CNY
+
+2024-10-15 * "Food"
+    Assets:Alipay                                         -7.8 CNY
+    Expenses:BaseLife:Food                                 7.8 CNY
+
+2024-10-15 * "薪资"
+    Income:Salary                                       -10000 CNY
+    Assets:SocialSecurity:YangLao                         1000 CNY
+    Assets:SocialSecurity:ShiYe                            500 CNY
+    Assets:SocialSecurity:YiLiao                           500 CNY
+    Assets:SocialSecurity:HousingFund                     1000 CNY
+    Expenses:Tax:Salary                                    100 CNY
+    Assets:Card:ZhaoHang                                  6900 CNY
+
+2024-10-15 * "地铁"
+    Assets:Card:ZhaoHang                                    -6 CNY
+    Expenses:BaseLife:Traffic                                6 CNY
+
+2024-10-16 * "Food"
+    Assets:Alipay                                       -21.96 CNY
+    Expenses:BaseLife:Food                               21.96 CNY
+
+2024-10-17 * "Food"
+    Assets:Alipay                                       -15.96 CNY
+    Expenses:BaseLife:Food                               15.96 CNY
+
+2024-10-18 * "food"
+    Assets:Alipay                                       -14.76 CNY
+    Expenses:BaseLife:Food                               14.76 CNY
+
+2024-10-18 * "山西面馆"
+    Assets:Weixin                                          -20 CNY
+    Expenses:BaseLife:Food                                  20 CNY
+
+2024-11-01 balance Assets:Cash                             300 CNY
+2024-11-01 balance Assets:Card:ZhaoHang               16350.20 CNY
+2024-11-01 balance Assets:Card:GongShang                     0 CNY
+
+2024-11-01 balance Assets:Alipay                       3765.24 CNY ; 有问题的，为了平账
+2024-11-01 balance Assets:Weixin                           280 CNY
+
+2024-11-01 balance Assets:SocialSecurity:HousingFund      1000 CNY
+2024-11-01 balance Assets:SocialSecurity:YangLao          1000 CNY
+2024-11-01 balance Assets:SocialSecurity:ShiYe             500 CNY
+2024-11-01 balance Assets:SocialSecurity:YiLiao            500 CNY
+
+2024-11-01 balance Liabilities:AntHuaBei                     0 CNY
+2024-11-01 balance Liabilities:JDBaiTiao                     0 CNY
